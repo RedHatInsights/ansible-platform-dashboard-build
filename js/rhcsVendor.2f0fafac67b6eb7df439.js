@@ -1324,9 +1324,9 @@ ___CSS_LOADER_EXPORT___.push([module.id, ":root {\n  --ins-color--orange: #ec7a0
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css":
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css":
 /*!*************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css ***!
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css ***!
   \*************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
@@ -1351,9 +1351,9 @@ ___CSS_LOADER_EXPORT___.push([module.id, ".notification-item {\n  position: rela
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css":
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css":
 /*!*************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css ***!
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css ***!
   \*************************************************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
@@ -1378,9 +1378,9 @@ ___CSS_LOADER_EXPORT___.push([module.id, ".notifications-portal {\n  position: f
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css":
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css":
 /*!*******************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css ***!
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css ***!
   \*******************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
@@ -1405,9 +1405,9 @@ ___CSS_LOADER_EXPORT___.push([module.id, ".pf-l-page__main .pf-l-page__main-sect
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css":
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css":
 /*!*************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css ***!
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css ***!
   \*************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
@@ -1432,9 +1432,9 @@ ___CSS_LOADER_EXPORT___.push([module.id, ":root {\n  --ins-color--orange: #ec7a0
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css":
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css":
 /*!***************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css ***!
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css ***!
   \***************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
@@ -1472,7 +1472,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./notification.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css");
+/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./notification.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css");
 
             
 
@@ -1481,11 +1481,11 @@ var options = {};
 options.insert = "head";
 options.singleton = false;
 
-var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
+var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
 
 
 if (true) {
-  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
+  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
     var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
   if (!a && b || a && !b) {
     return false;
@@ -1517,21 +1517,21 @@ if (true) {
 
   return true;
 };
-    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
     module.hot.accept(
-      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./notification.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css",
-      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./notification.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css");
+      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./notification.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css",
+      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./notification.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/Notification/notification.css");
 (function () {
-        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
+        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
                 module.hot.invalidate();
 
                 return;
               }
 
-              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
-              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default);
+              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default);
       })(__WEBPACK_OUTDATED_DEPENDENCIES__); }
     )
   }
@@ -1541,7 +1541,7 @@ if (true) {
   });
 }
 
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notification_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
 
 /***/ }),
 
@@ -1558,7 +1558,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./notificationPortal.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css");
+/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./notificationPortal.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css");
 
             
 
@@ -1567,11 +1567,11 @@ var options = {};
 options.insert = "head";
 options.singleton = false;
 
-var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
+var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
 
 
 if (true) {
-  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
+  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
     var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
   if (!a && b || a && !b) {
     return false;
@@ -1603,21 +1603,21 @@ if (true) {
 
   return true;
 };
-    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
     module.hot.accept(
-      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./notificationPortal.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css",
-      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./notificationPortal.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css");
+      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./notificationPortal.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css",
+      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./notificationPortal.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components-notifications/NotificationPortal/notificationPortal.css");
 (function () {
-        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
+        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
                 module.hot.invalidate();
 
                 return;
               }
 
-              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
-              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default);
+              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default);
       })(__WEBPACK_OUTDATED_DEPENDENCIES__); }
     )
   }
@@ -1627,7 +1627,7 @@ if (true) {
   });
 }
 
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_notificationPortal_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
 
 /***/ }),
 
@@ -1644,7 +1644,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./main.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css");
+/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./main.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css");
 
             
 
@@ -1653,11 +1653,11 @@ var options = {};
 options.insert = "head";
 options.singleton = false;
 
-var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
+var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
 
 
 if (true) {
-  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
+  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
     var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
   if (!a && b || a && !b) {
     return false;
@@ -1689,21 +1689,21 @@ if (true) {
 
   return true;
 };
-    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
     module.hot.accept(
-      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./main.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css",
-      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./main.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css");
+      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./main.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css",
+      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./main.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Main/main.css");
 (function () {
-        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
+        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
                 module.hot.invalidate();
 
                 return;
               }
 
-              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
-              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default);
+              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default);
       })(__WEBPACK_OUTDATED_DEPENDENCIES__); }
     )
   }
@@ -1713,7 +1713,7 @@ if (true) {
   });
 }
 
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_main_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
 
 /***/ }),
 
@@ -1730,7 +1730,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./section.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css");
+/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./section.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css");
 
             
 
@@ -1739,11 +1739,11 @@ var options = {};
 options.insert = "head";
 options.singleton = false;
 
-var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
+var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
 
 
 if (true) {
-  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
+  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
     var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
   if (!a && b || a && !b) {
     return false;
@@ -1775,21 +1775,21 @@ if (true) {
 
   return true;
 };
-    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
     module.hot.accept(
-      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./section.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css",
-      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./section.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css");
+      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./section.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css",
+      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./section.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Section/section.css");
 (function () {
-        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
+        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
                 module.hot.invalidate();
 
                 return;
               }
 
-              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
-              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default);
+              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default);
       })(__WEBPACK_OUTDATED_DEPENDENCIES__); }
     )
   }
@@ -1799,7 +1799,7 @@ if (true) {
   });
 }
 
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_section_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
 
 /***/ }),
 
@@ -1816,7 +1816,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
 /* harmony import */ var _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./skeleton.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css");
+/* harmony import */ var _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./skeleton.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css");
 
             
 
@@ -1825,11 +1825,11 @@ var options = {};
 options.insert = "head";
 options.singleton = false;
 
-var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
+var update = _style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default, options);
 
 
 if (true) {
-  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
+  if (!_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || module.hot.invalidate) {
     var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
   if (!a && b || a && !b) {
     return false;
@@ -1861,21 +1861,21 @@ if (true) {
 
   return true;
 };
-    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+    var oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
     module.hot.accept(
-      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./skeleton.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css",
-      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!../../../sass-loader/dist/cjs.js!./skeleton.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css");
+      /*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./skeleton.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css",
+      __WEBPACK_OUTDATED_DEPENDENCIES__ => { /* harmony import */ _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../css-loader/dist/cjs.js!../../../sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!../../../sass-loader/dist/cjs.js!./skeleton.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js!./node_modules/@redhat-cloud-services/frontend-components/Skeleton/skeleton.css");
 (function () {
-        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
+        if (!isEqualLocals(oldLocals, _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals, undefined)) {
                 module.hot.invalidate();
 
                 return;
               }
 
-              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
+              oldLocals = _css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals;
 
-              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default);
+              update(_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default);
       })(__WEBPACK_OUTDATED_DEPENDENCIES__); }
     )
   }
@@ -1885,7 +1885,7 @@ if (true) {
   });
 }
 
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_4_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_css_loader_dist_cjs_js_sass_loader_dist_cjs_js_ruleSet_1_rules_3_use_2_sass_loader_dist_cjs_js_skeleton_css__WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
 
 /***/ })
 

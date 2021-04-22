@@ -7,7 +7,7 @@
   \**************************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-document.getElementById('root').classList.add('ansible-dashboard');var isChrome2 = ( true && window.insights && window.insights.chrome && window.insights.chrome.isChrome2) || false; if(!isChrome2){Promise.all(/*! import() */[__webpack_require__.e("pfVendor"), __webpack_require__.e("rhcsVendor"), __webpack_require__.e("reactvendor"), __webpack_require__.e("vendors-node_modules_babel_runtime_helpers_esm_classCallCheck_js-node_modules_babel_runtime_h-352f35"), __webpack_require__.e("src_bootstrap-dev_js")]).then(__webpack_require__.bind(__webpack_require__, /*! ./bootstrap-dev */ "./src/bootstrap-dev.js"));}
+document.getElementById('root').classList.add('ansible-dashboard');var isChrome2 = ( true && window.insights && window.insights.chrome && window.insights.chrome.isChrome2) || false; if(!isChrome2){Promise.all(/*! import() */[__webpack_require__.e("pfVendor"), __webpack_require__.e("rhcsVendor"), __webpack_require__.e("reactvendor"), __webpack_require__.e("vendors-node_modules_babel_runtime_helpers_esm_classCallCheck_js-node_modules_babel_runtime_h-18415a"), __webpack_require__.e("src_bootstrap-dev_js")]).then(__webpack_require__.bind(__webpack_require__, /*! ./bootstrap-dev */ "./src/bootstrap-dev.js"));}
 
 /***/ })
 
@@ -131,7 +131,7 @@ document.getElementById('root').classList.add('ansible-dashboard');var isChrome2
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "js/" + chunkId + "." + {"pfVendor":"94f161396b33740cc822","rhcsVendor":"3879d80a25fb9d7a6de5","reactvendor":"d8ad37336b80db99d909","vendors-node_modules_babel_runtime_helpers_esm_classCallCheck_js-node_modules_babel_runtime_h-352f35":"c0c53842254caebfbfda","src_bootstrap-dev_js":"6539fa1d9a8e2de68109","vendors-node_modules_babel_runtime_helpers_esm_asyncToGenerator_js-node_modules_babel_runtime-c51a5e":"b62e8dab1f7c46d8e8fe","ansible-dashboard-route":"8e510c7ae02a9ffa0762"}[chunkId] + ".js";
+/******/ 			return "js/" + chunkId + "." + {"pfVendor":"728b31bb588b5f797245","rhcsVendor":"2f0fafac67b6eb7df439","reactvendor":"d8ad37336b80db99d909","vendors-node_modules_babel_runtime_helpers_esm_classCallCheck_js-node_modules_babel_runtime_h-18415a":"30b119468272babf283a","src_bootstrap-dev_js":"0fa84a086220b7c2c65a","vendors-node_modules_babel_runtime_helpers_esm_asyncToGenerator_js-node_modules_babel_runtime-d8a8e7":"a9cb6d70f50addaaecb9","ansible-dashboard-route":"7de440a95e8fa36673a9"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
@@ -160,7 +160,7 @@ document.getElementById('root').classList.add('ansible-dashboard');var isChrome2
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("e897970491a8d7043e42")
+/******/ 		__webpack_require__.h = () => ("c4df4a685124e6f76f29")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -707,7 +707,7 @@ document.getElementById('root').classList.add('ansible-dashboard');var isChrome2
 /******/ 			chunkIds.forEach((chunkId) => {
 /******/ 				var href = __webpack_require__.miniCssF(chunkId);
 /******/ 				var fullhref = __webpack_require__.p + href;
-/******/ 				const oldTag = findStylesheet(href, fullhref);
+/******/ 				var oldTag = findStylesheet(href, fullhref);
 /******/ 				if(!oldTag) return;
 /******/ 				promises.push(new Promise((resolve, reject) => {
 /******/ 					var tag = createStylesheet(chunkId, fullhref, () => {
