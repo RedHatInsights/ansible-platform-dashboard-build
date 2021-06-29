@@ -1,0 +1,12 @@
+{
+  "app_name": "ansible-dashboard",
+  "src_hash": "ce9c736bbfe5052f008185f1aab86a8fe1a66f45",
+  "src_tag": "",
+  "src_branch": "prod-stable",
+  "patternfly_dependencies": ["@patternfly/patternfly@4.96.2","@patternfly/react-charts@6.14.17","@patternfly/react-core@4.121.1","@patternfly/react-icons@4.10.7","@patternfly/react-tokens@4.11.8"],
+  "travis": {
+    "event_type": "push",
+    "build_number": "258",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/ansible-platform-dashboard/builds/231283140"
+  }
+}

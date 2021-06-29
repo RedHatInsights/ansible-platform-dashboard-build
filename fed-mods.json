@@ -1,0 +1,10 @@
+{
+    "ansibleDashboard": {
+        "entry": [
+            "/apps/ansible-dashboard/ansibleDashboard.js"
+        ],
+        "modules": [
+            "/apps/ansible-dashboard/js/374.js"
+        ]
+    }
+}
