@@ -1,12 +1,12 @@
 {
   "app_name": "ansible-dashboard",
-  "src_hash": "6e0f1fc9520b304d063f8c1e70e3e95dadcf3bbb",
+  "src_hash": "b8d589a20cd423fd4bbca399288a69bcb0896212",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": ["@patternfly/patternfly@4.115.2","@patternfly/react-charts@6.15.3","@patternfly/react-core@4.135.0","@patternfly/react-icons@4.11.0","@patternfly/react-tokens@4.12.0"],
   "travis": {
     "event_type": "push",
-    "build_number": "262",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ansible-platform-dashboard/builds/231996638"
+    "build_number": "268",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ansible-platform-dashboard/builds/232619219"
   }
 }
