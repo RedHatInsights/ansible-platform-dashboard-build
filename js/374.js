@@ -1,2 +1,0 @@
-(self.webpackChunkansible_dashboard=self.webpackChunkansible_dashboard||[]).push([[374],{41374:(e,n,a)=>{"use strict";a.r(n),a.d(n,{default:()=>i});var r=a(92950),t=a.n(r),s=a(334),o=a(557),l=a(41418),c=a(95864),u=a(35240),b=a(45697),d=function(){return t().createElement(o.Provider,{store:(0,l.Z)([])},t().createElement(s.BrowserRouter,{basename:(0,u.eb)(window.location.pathname,1)},t().createElement(c.Z,null)))};d.propTypes={logger:a.n(b)().func};const i=d}}]);
-//# sourceMappingURL=374.js.map
