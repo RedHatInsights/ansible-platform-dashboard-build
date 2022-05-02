@@ -1,10 +1,10 @@
 {
     "ansibleDashboard": {
         "entry": [
-            "/beta/apps/ansible-dashboard/ansibleDashboard.1651052269579.10332b43616509d846a2.js"
+            "/beta/apps/ansible-dashboard/ansibleDashboard.1651502639392.995ff04b398066ef6e8d.js"
         ],
         "modules": [
-            "/beta/apps/ansible-dashboard/js/403.1651052269499.10332b43616509d846a2.js",
+            "/beta/apps/ansible-dashboard/js/403.1651502639310.995ff04b398066ef6e8d.js",
             "/beta/apps/ansible-dashboard/css/403.d148366fd611325f5e63.css"
         ]
     }
