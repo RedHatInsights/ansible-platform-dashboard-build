@@ -1,11 +1,11 @@
 {
     "ansibleDashboard": {
         "entry": [
-            "/apps/ansible-dashboard/ansibleDashboard.1651586658532.4c5716ef1d5de1651bd8.js"
+            "/apps/ansible-dashboard/ansibleDashboard.1651675568877.e25b98bd3fc9c7e1d578.js"
         ],
         "modules": [
-            "/apps/ansible-dashboard/js/403.1651586658447.4c5716ef1d5de1651bd8.js",
-            "/apps/ansible-dashboard/css/403.ef25b2490c49148a0fc2.css"
+            "/apps/ansible-dashboard/js/66.1651675568798.e25b98bd3fc9c7e1d578.js",
+            "/apps/ansible-dashboard/css/66.d08d2a4287e67a314395.css"
         ]
     }
 }
